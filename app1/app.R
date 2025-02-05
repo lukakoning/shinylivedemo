@@ -20,7 +20,7 @@ ui <- fluidPage(
   plotOutput("plot"),
 
   # A button to say hello
-  actionButton("hello", "Hello"),
+  actionButton("hello", "Hello!"),
 )
 
 
